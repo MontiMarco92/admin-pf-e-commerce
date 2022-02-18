@@ -1,6 +1,6 @@
 
 <p align='left'>
-    <img src='https://github.com/MontiMarco92/admin-pf-e-commerce/blob/main/logoTrazoN.ca39efe527a2204c13aa.png' </img>
+    <img src='https://github.com/MontiMarco92/admin-pf-e-commerce/blob/main/logoTrazoN.ca39efe527a2204c13aa.png' width='40%'  </img>
 </p>
 
 # E-Commerce - ATR-Computacion
